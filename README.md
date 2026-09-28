@@ -1,7 +1,3 @@
-# zepto-sales-dashboard
-# Zepto Sales Dashboard
-
-
 # Zepto Sales Dashboard
 
 ## 🚀 Live Dashboard
