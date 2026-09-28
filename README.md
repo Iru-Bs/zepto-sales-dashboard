@@ -1,6 +1,21 @@
 # zepto-sales-dashboard
 # Zepto Sales Dashboard
 
+
+# Zepto Sales Dashboard
+
+## 🚀 Live Dashboard
+
+👉 [**View Live Dashboard**](https://iru-bs.github.io/zepto-sales-dashboard/)
+
+An interactive sales analytics dashboard built using HTML, CSS, JavaScript and Chart.js.
+
+## 📊 Project Overview
+
+This project presents an interactive sales dashboard with filters, KPIs, charts, and product-level analysis.
+
+The dashboard covers sales performance from **1 January 2025 to 1 March 2025**.
+
 An interactive sales analytics dashboard built to analyze Zepto-style order data and generate business insights.
 
 ## 📊 Project Overview
